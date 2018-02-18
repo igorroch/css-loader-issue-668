@@ -1,0 +1,10 @@
+$font-path: "../fonts/";
+
+@font-face {
+    font-family: myFirstFont;
+    src: url('#{$font-path}/Monotype Corsiva/MTCORSVA.ttf?#iefix');
+}
+
+div {
+    font-family: myFirstFont;
+}
