@@ -1,17 +1,6 @@
 {
-  "name": "lowes-ux",
-  "version": "1.0.0",
-  "description": "Lowes.FE static website",
-  "main": "gulpfile.js",
   "scripts": {
-    "build": "webpack",
-    "start": "webpack-dev-server"
-  },
-  "author": "EPAM Systems",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://gitpct.epam.com/lowc-uxsc/lowc-uxsc.git"
+    "build": "webpack"
   },
   "dependencies": {},
   "devDependencies": {
